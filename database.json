@@ -1,0 +1,35 @@
+{
+    "events" : [
+        {
+            "id": 1,
+            "eventCreator": 1,
+            "location": "this needs to be a selection of a few different options. It may need a bridge table.",
+            "address": "idk",
+            "startTime": "3AM, duh",
+            "endTime": "whenever", 
+            "theme": 1,
+            "description": "The greenway at 3AM. It's a good time :)"
+        }
+    ],
+    "users" : [
+        {
+            "id": 1,
+            "email": "monster@monster.com",
+            "name": "Dr. Mon Ster",
+            "location": "in the woods"
+        }
+    ],
+    "themes" : [
+        {
+            "id": 1,
+            "theme": "spooky"
+        }
+    ],
+    "userEvent" : [
+        {
+            "id": 1,
+            "eventId": 1,
+            "userId": 1
+        }
+    ]
+}
